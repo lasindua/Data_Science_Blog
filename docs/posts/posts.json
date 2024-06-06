@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2024-06-06T17:29:56+10:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-06-06-stats/",
+    "title": "Stats",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lasindu Abeywardene",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-06-06T18:01:57+10:00",
+    "input_file": "stats.knit.md"
   }
 ]
