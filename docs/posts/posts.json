@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\r\nExperimenting and testing\r\nThis welcome post is just for testing github pages with RStudio and experimenting with R markdown syntax. I will change this again in the future.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2024-06-12T20:12:12+10:00",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2024-06-12T20:12:13+10:00",
+    "input_file": {}
   },
   {
     "path": "posts/2024-06-06-stats/",
@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2024-06-06T18:01:57+10:00",
-    "input_file": "stats.knit.md"
+    "last_modified": "2024-06-06T18:01:58+10:00",
+    "input_file": {}
   }
 ]

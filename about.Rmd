@@ -1,9 +1,12 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+  Some additional details about the blog and myself
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+Hopefully this blog will contain projects and track my progress as data scientist.  
+As I learn more, this site will also hopefully change a lot.  
+[LinkedIn](https://www.linkedin.com/in/lasindu-yapa-abeywardene/)

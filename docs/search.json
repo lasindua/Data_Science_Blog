@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Some additional details about the blog and myself",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-06-06T17:57:17+10:00"
+      "contents": "\r\nHopefully this blog will contain projects and track my progress as data scientist.\r\nAs I learn more, this site will also hopefully change a lot.LinkedIn\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-12T20:59:20+10:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-06-06T17:57:18+10:00"
+      "last_modified": "2024-06-12T20:12:13+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
