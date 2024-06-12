@@ -5,16 +5,16 @@
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Lasindu Abeywardene",
+        "url": {}
       }
     ],
-    "date": "2024-06-06",
+    "date": "2024-06-12",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nExperimenting and testing\r\nThis welcome post is just for testing github pages with RStudio and experimenting with R markdown syntax. I will change this again in the future.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2024-06-06T17:29:56+10:00",
-    "input_file": {}
+    "last_modified": "2024-06-12T20:12:12+10:00",
+    "input_file": "welcome.knit.md"
   },
   {
     "path": "posts/2024-06-06-stats/",

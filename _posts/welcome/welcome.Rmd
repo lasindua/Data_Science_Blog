@@ -4,11 +4,11 @@ description: |
   Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 06-06-2024
+  - name: Lasindu Abeywardene 
+    url: 
+    affiliation: UNSW Centre for Big Data Research in Health
+    affiliation_url: https://www.unsw.edu.au/research/cbdrh
+date: 06-12-2024
 output:
   distill::distill_article:
     self_contained: false
@@ -22,5 +22,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
+## Experimenting and testing  
+This welcome post is just for testing github pages with RStudio and experimenting with R markdown syntax. I will change this again in the future. 
 
